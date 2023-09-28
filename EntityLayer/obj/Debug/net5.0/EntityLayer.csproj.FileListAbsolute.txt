@@ -1,0 +1,45 @@
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\yakup\Desktop\kargoTakipUygulaması\App\Web\myResume\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\yakup\Desktop\Yeni klasör\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\refint\EntityLayer.dll
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Melih\OneDrive\Masaüstü\MyResume\MyResume\myResume\App\Web\myResume\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
